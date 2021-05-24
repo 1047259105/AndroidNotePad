@@ -1,3 +1,2 @@
-# AndroidNotePad"项目描述AndroidNotePad" 
-"项目" 
-"项目描述" 
+#鍩烘湰鐨勭瑪璁扮晫闈㈠拰鎿嶄綔
+#娣诲姞绗旇鐨勬椂闂存埑
